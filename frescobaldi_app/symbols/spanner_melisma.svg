@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="7.73mm" height="7.73mm" viewBox="0 0 4.4000 4.4000">
-<!-- Page: 1/1 -->
-<rect transform="translate(1.9920, 4.1193)" x="0.0000" y="-0.0800" width="2.2184" height="0.0800" ry="0.0320" fill="currentColor"/>
-<rect transform="translate(4.1454, 3.1157)" x="-0.0650" y="-2.1157" width="0.1300" height="1.5000" ry="0.0400" fill="currentColor"/>
-<path transform="translate(3.2820, 2.6157) scale(0.0028, -0.0028)" d="M211 141c61 0 117 -33 117 -100c0 -71 -52 -121 -99 -149c-34 -20 -73 -33 -112 -33c-61 0 -117 33 -117 100c0 71 52 121 99 149c34 20 73 33 112 33z" fill="currentColor"/>
-<rect transform="translate(2.6294, 3.1157)" x="-0.0650" y="-3.1157" width="0.1300" height="1.5000" ry="0.0400" fill="currentColor"/>
-<path transform="translate(1.7660, 1.6157) scale(0.0028, -0.0028)" d="M211 141c61 0 117 -33 117 -100c0 -71 -52 -121 -99 -149c-34 -20 -73 -33 -112 -33c-61 0 -117 33 -117 100c0 71 52 121 99 149c34 20 73 33 112 33z" fill="currentColor"/>
-<rect transform="translate(0.8634, 3.1157)" x="-0.0650" y="-2.6157" width="0.1300" height="1.5000" ry="0.0400" fill="currentColor"/>
-<text transform="translate(0.0000, 4.1193)" font-family="Century Schoolbook L" font-size="1.7461" text-anchor="start" fill="currentColor">
-<tspan>
-aa</tspan>
-</text>
-<path transform="translate(0.0000, 2.1157) scale(0.0028, -0.0028)" d="M211 141c61 0 117 -33 117 -100c0 -71 -52 -121 -99 -149c-34 -20 -73 -33 -112 -33c-61 0 -117 33 -117 100c0 71 52 121 99 149c34 20 73 33 112 33z" fill="currentColor"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="7.73mm" height="7.73mm" version="1.2" viewBox="0 0 4.4 4.4"><rect width="2.218" height=".08" x="0" y="-.08" fill="currentColor" ry=".032" transform="translate(1.9920, 4.1193)"/><rect width=".13" height="1.5" x="-.065" y="-2.116" fill="currentColor" ry=".04" transform="translate(4.1454, 3.1157)"/><path fill="currentColor" d="M211 141c61 0 117 -33 117 -100c0 -71 -52 -121 -99 -149c-34 -20 -73 -33 -112 -33c-61 0 -117 33 -117 100c0 71 52 121 99 149c34 20 73 33 112 33z" transform="translate(3.2820, 2.6157) scale(0.0028, -0.0028)"/><rect width=".13" height="1.5" x="-.065" y="-3.116" fill="currentColor" ry=".04" transform="translate(2.6294, 3.1157)"/><path fill="currentColor" d="M211 141c61 0 117 -33 117 -100c0 -71 -52 -121 -99 -149c-34 -20 -73 -33 -112 -33c-61 0 -117 33 -117 100c0 71 52 121 99 149c34 20 73 33 112 33z" transform="translate(1.7660, 1.6157) scale(0.0028, -0.0028)"/><rect width=".13" height="1.5" x="-.065" y="-2.616" fill="currentColor" ry=".04" transform="translate(0.8634, 3.1157)"/><text fill="currentColor" font-family="Century Schoolbook L" font-size="1.746" text-anchor="start" transform="translate(0.0000, 4.1193)"><tspan>aa</tspan></text><path fill="currentColor" d="M211 141c61 0 117 -33 117 -100c0 -71 -52 -121 -99 -149c-34 -20 -73 -33 -112 -33c-61 0 -117 33 -117 100c0 71 52 121 99 149c34 20 73 33 112 33z" transform="translate(0.0000, 2.1157) scale(0.0028, -0.0028)"/></svg>
